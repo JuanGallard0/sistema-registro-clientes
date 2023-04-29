@@ -6,7 +6,7 @@ Query de la base de datos ubicada en el archivo **db-query.sql**
 
 Credenciales de conexión a la base de datos en **.env**
 
-## Setup
+## Setup (node version 20.0.0)
 
 ### `npm install`
 ### `npm run start`  
@@ -14,7 +14,7 @@ Credenciales de conexión a la base de datos en **.env**
   
 # Cliente (folder cliente)
 
-### Setup
+### Setup (node version 20.0.0)
 
 ### `npm install`
 ### `npm run start`
