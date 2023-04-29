@@ -1,0 +1,24 @@
+{
+  "name": "servidor",
+  "version": "1.0.0",
+  "description": "servidor",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "deploy": "node server.js",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "Juan Gallardo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "json2csv": "^6.0.0-alpha.2",
+    "nodemon": "^2.0.22",
+    "pg": "^8.10.0"
+  }
+}
