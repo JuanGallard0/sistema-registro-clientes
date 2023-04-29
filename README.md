@@ -14,7 +14,7 @@ Credenciales de conexión a la base de datos en **.env**
   
 # Cliente (folder cliente)
 
-### Setup (node version 20.0.0)
+## Setup (node version 20.0.0)
 
 ### `npm install`
 ### `npm run start`
