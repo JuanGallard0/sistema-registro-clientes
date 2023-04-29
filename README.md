@@ -6,7 +6,7 @@
 ## Setup
 ### `npm install`
 ### `npm run start`
-\
+
 ## Cliente (folder cliente)
 ### Setup
 ### `npm install`
